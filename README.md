@@ -39,7 +39,7 @@
 
 ### 👀 Profile Views
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />
+<img src="https://img.shields.io/badge/Profile%20views-134-blue?style=for-the-badge" alt="Profile Views Counter" />
 </p>
 
 ---
