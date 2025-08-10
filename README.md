@@ -51,4 +51,6 @@
 
 
 <!-- Footer GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdlM3N2N3h3ZnY4bHdyMWN6YzlzeHVpNGFicG5jMTk5bm5sN3A0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduQAsYcJKQH2XsI/giphy.gif" width="200px" height="200px" />
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdlM3N2N3h3ZnY4bHdyMWN6YzlzeHVpNGFicG5jMTk5bm5sN3A0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduQAsYcJKQH2XsI/giphy.gif" width="400px" height="200px" />
+</p>
