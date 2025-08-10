@@ -1,11 +1,12 @@
-<!-- Banner GIF -->
+<!-- Header GIF: New VLSI-themed circuit animation -->
 <img src="https://i.imgur.com/yourCircuitGif.gif" width="100%" height="250px" />
+
 <h1 align="center">Hi 👋, I'm Suraj Singh</h1>
 <h3 align="center">A passionate VLSI & Embedded Systems Engineer from India</h3>
 
 ---
 
-### 👨‍💻 About Me
+### ​​​ About Me
 - 💼 Experienced in **Cadence**, **Verilog**, **MATLAB**, **Simulink**
 - 🎯 Passionate about **Digital Design**, **Signal Processing**, and **Embedded Systems**
 - 🌱 Currently learning **FPGA Development** & **Hardware-Software Co-design**
@@ -13,7 +14,7 @@
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,7 +26,7 @@
 
 ---
 
-### 🛠️ Skills & Tools
+### ​ Skills & Tools
 <p align="center">
 <img src="https://img.shields.io/badge/Cadence-000000?style=for-the-badge&logo=appveyor&logoColor=white" />
 <img src="https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge&logoColor=white" />
@@ -37,17 +38,17 @@
 
 ---
 
-### 👀 Profile Views
+### ​ Profile Views
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />
 </p>
 
 ---
 
-### 💡 Fun Fact
+###  Fun Fact
 > "Great engineers aren’t born, they debug their way to greatness!"
 
 ---
 
-<!-- Footer GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdlM3N2N3h3ZnY4bHdyMWN6YzlzeHVpNGFicG5jMTk5bm5sN3A0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduQAsYcJKQH2XsI/giphy.gif" width="100%" height="150px" />
+<!-- Footer GIF: VLSI/PCB-style fade animation -->
+<img src="https://i.imgur.com/yourFooterCircuitGif.gif" width="100%" height="200px" />
