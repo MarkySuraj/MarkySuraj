@@ -15,7 +15,7 @@
 
 ### 📫 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+<a href="www.linkedin.com/in/suraj11singh11bisht" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:bishtsingh967@gmail.com">
@@ -37,13 +37,13 @@
 
 ---
 
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajsinghbisht&show_icons=true&theme=radical)
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkySuraj&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=surajsinghbisht&theme=radical&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarkySuraj&theme=radical&border_radius=5)](https://git.io/streak-stats)
 
 ### 👀 Profile Views
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=surajsinghbisht&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />
+<img src="https://komarev.com/ghpvc/?username=MarkySuraj&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />
 </p>
 
 
