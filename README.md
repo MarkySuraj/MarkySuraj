@@ -1,5 +1,5 @@
 <!-- Banner GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJra2s4dzRkZTRnOW8zb3B5eGM1bmQ3bnBzY3ZtcHR1dmRqa2M2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100%" height="200px" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJra2s4dzRkZTRnOW8zb3B5eGM1bmQ3bnBzY3ZtcHR1dmRqa2M2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100%" height="350px" />
 
 <h1 align="center">Hi 👋, I'm Suraj Singh Bisht</h1>
 <h3 align="center">A passionate VLSI & Embedded Systems Engineer from India</h3>
@@ -51,4 +51,4 @@
 
 
 <!-- Footer GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdlM3N2N3h3ZnY4bHdyMWN6YzlzeHVpNGFicG5jMTk5bm5sN3A0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduQAsYcJKQH2XsI/giphy.gif" width="100%" height="150px" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdlM3N2N3h3ZnY4bHdyMWN6YzlzeHVpNGFicG5jMTk5bm5sN3A0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduQAsYcJKQH2XsI/giphy.gif" width="100%" height="350px" />
