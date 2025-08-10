@@ -37,6 +37,10 @@
 
 ---
 
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajsinghbisht&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=surajsinghbisht&theme=radical&border_radius=5)](https://git.io/streak-stats)
+
 ### 👀 Profile Views
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=surajsinghbisht&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />
