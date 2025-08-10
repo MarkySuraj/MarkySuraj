@@ -1,5 +1,8 @@
 <!-- Banner GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJra2s4dzRkZTRnOW8zb3B5eGM1bmQ3bnBzY3ZtcHR1dmRqa2M2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100%" height="200px" />
+<p align="center">
+  <img src="https://i.imgur.com/a3uOa0Q.gif" width="100%" height="250px" alt="VLSI Circuit Animation" />
+</p>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="40" />, I'm Suraj Singh Bisht</h1>
 
