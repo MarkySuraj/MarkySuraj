@@ -1,6 +1,6 @@
-https://miro.medium.com/v2/resize%3Afit%3A1400/0%2AnFUBK7SWAaJyrRw3.gif<!-- Banner GIF -->
+<!-- Banner GIF -->
 <p align="center">
-  <img src="https://i.imgur.com/a3uOa0Q.gif" width="100%" height="250px" alt="VLSI Circuit Animation" />
+  <img src="https://miro.medium.com/v2/resize%3Afit%3A1400/0%2AnFUBK7SWAaJyrRw3.gif" width="100%" height="250px" alt="VLSI Circuit Animation" />
 </p>
 
 
