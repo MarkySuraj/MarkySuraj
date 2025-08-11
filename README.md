@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="40" />, I'm Suraj Singh Bisht</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="40" />, I'm Suraj</h1>
 
 
 <h3 align="center">A passionate VLSI & Embedded Systems Engineer from India</h3>
