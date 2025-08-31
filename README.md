@@ -50,7 +50,6 @@
 ### 👀 Profile Views
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MarkySuraj&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />
-<img src="https://miro.medium.com/v2/resize%3Afit%3A1400/0%2AnFUBK7SWAaJyrRw3.gif" width="400px" height="300px" alt="VLSI Circuit Animation" />
 </p>
 
 
@@ -59,5 +58,6 @@
 
 <!-- Footer GIF -->
 <p align="center">
+<img src="https://miro.medium.com/v2/resize%3Afit%3A1400/0%2AnFUBK7SWAaJyrRw3.gif" width="400px" height="300px" alt="VLSI Circuit Animation" />
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdlM3N2N3h3ZnY4bHdyMWN6YzlzeHVpNGFicG5jMTk5bm5sN3A0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduQAsYcJKQH2XsI/giphy.gif" width="500px" height="300px" />
 </p>
