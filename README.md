@@ -2,8 +2,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="40" />, I'm Suraj</h1>
 <p align="center">
   <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&lines=FPGA+Programmer;RTL+Design+Explorer;Hardware+Architect+in+Progress;VLSI+is+my+Playground" alt="Typing SVG" /></p>
-
-  <img src="https://miro.medium.com/v2/resize%3Afit%3A1400/0%2AnFUBK7SWAaJyrRw3.gif" width="400px" height="300px" alt="VLSI Circuit Animation" />
 </p>
 
 
@@ -52,6 +50,7 @@
 ### 👀 Profile Views
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MarkySuraj&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />
+<img src="https://miro.medium.com/v2/resize%3Afit%3A1400/0%2AnFUBK7SWAaJyrRw3.gif" width="400px" height="300px" alt="VLSI Circuit Animation" />
 </p>
 
 
