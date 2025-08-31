@@ -1,7 +1,7 @@
 <!-- Banner GIF -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="40" />, I'm Suraj</h1>
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize%3Afit%3A1400/0%2AnFUBK7SWAaJyrRw3.gif" width="500px" height="350px" alt="VLSI Circuit Animation" />
+  <img src="https://miro.medium.com/v2/resize%3Afit%3A1400/0%2AnFUBK7SWAaJyrRw3.gif" width="400px" height="300px" alt="VLSI Circuit Animation" />
 </p>
 
 
