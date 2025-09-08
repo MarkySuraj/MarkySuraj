@@ -59,5 +59,5 @@
 <!-- Footer GIF -->
 <p align="center">
 <img src="https://miro.medium.com/v2/resize%3Afit%3A1400/0%2AnFUBK7SWAaJyrRw3.gif" width="400px" height="300px" alt="VLSI Circuit Animation" />
-<img src="https://cdnb.artstation.com/p/assets/images/images/066/149/065/original/killer-rabbit-media-chinese-alleyway-export.gif?1692171513" width="400" alt="Japanese City" />
+<img src="https://cdnb.artstation.com/p/assets/images/images/066/149/065/original/killer-rabbit-media-chinese-alleyway-export.gif?1692171513" width="400" height="300px" alt="Japanese City" />
 </p>
